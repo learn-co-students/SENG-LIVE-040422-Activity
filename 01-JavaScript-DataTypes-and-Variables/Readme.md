@@ -3,15 +3,15 @@ Phase-1 Activity
 
 Open the index.html file in your browser. 
 
-right click the browser and select `inspect`
+right-click the browser and select `inspect`
 
 ![inspect](assets/inspect.png)
 
-A side bar will pop up. Select the `console` tab. You may need to first select `>>` if you do not see `console`
+A sidebar will pop up. Select the `console` tab. You may need to first select `>>` if you do not see `console`
 
 ![console](assets/console.png)
 Do the following in the index.js file.
-Every time you complete a deliverable save the file and refresh the browser.  
+Every time you complete a deliverable, save the file and refresh the browser.  
 
 1. Crate a book variable with a let  and cat variable with a const. Assign these variables values. Note: You should not see anything in the browser console yet.
  <details>
@@ -75,7 +75,7 @@ console.log the book variable after you assign it a new value.
 
  Bonus 
 
-5.  Add an `else` block to your conditional statement. In the else assign book a different value and console.log the book. 
+5. Add an `else` block to your conditional statement. In the else, assign book a different value and console.log the book. 
 
 Test this out by manually changing the books original value so it executes the else block.
 
@@ -97,12 +97,12 @@ Test this out by manually changing the books original value so it executes the e
    
  </details>
 
- 6.  Add `debugger` to your if block 
-before and after you define book. Refresh the browser. What happened? 
+ 6. Add `debugger` to your if block 
+before and after defining book. Refresh the browser. What happened? 
 
-Next select `console`. Type in book, you should get an error. Why are you seeing this error?
+Next select `console`. Type in book. You should get an error. Why are you seeing this error?
 
-Next hit the blue play button to continue the execution to the next debugger. Type in book in the console again. You should now be seeing the value of book instead of an error. Why?
+Next, hit the blue play button to continue the execution to the next debugger. Type in book in the console again. You should now be seeing the value of book instead of an error. Why?
 
  <details>
       <summary>
